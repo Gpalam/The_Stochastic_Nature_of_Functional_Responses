@@ -4,4 +4,4 @@ Hopf.R reproduces figure 2
 
 Feeding_rates_2.R reproduces figure 3
 
-Feeding_rates_4.R reproduces figure 4
+Feeding_rates_3.R reproduces figure 4
